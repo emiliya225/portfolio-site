@@ -209,7 +209,7 @@ input, select, textarea {
 		background: #f7f7f7;
 		border-radius: 0.35em;
 		border: solid 2px #efefef;
-		font-family: "Courier New", monospace;
+		font-family: "Lora", serif;
 		font-size: 0.9em;
 		margin: 0 0.25em;
 		padding: 0.25em 0.65em;
@@ -217,7 +217,7 @@ input, select, textarea {
 
 	pre {
 		-webkit-overflow-scrolling: touch;
-		font-family: "Courier New", monospace;
+		font-family: "Lora", serif;
 		font-size: 0.9em;
 		margin: 0 0 2em 0;
 	}
