@@ -2035,6 +2035,11 @@ input, select, textarea {
 			font-family: 'Font Awesome 5 Brands';
 		}
 
+#work-experience .icon {
+	font-size: 1.25em;
+}
+
+
 /* Image */
 
 	.image {
