@@ -3295,4 +3295,22 @@ h3, h4, h5, h6 {
 	font-family: 'Poppins', sans-serif;
 }
 
+/* Add spacing between icon and heading */
+#work-experience .icon {
+  display: inline-block;
+  font-size: 1.5em; /* adjust if needed */
+  margin-bottom: 0.5em;
+  color: #787878; /* match your theme if needed */
+}
+
+/* Add spacing between heading and paragraph */
+#work-experience h3 {
+  font-family: 'Poppins', sans-serif; /* if you've switched headers to Poppins */
+  margin-bottom: 0.3em;
+}
+
+/* Optional: consistent spacing between expertise blocks */
+#work-experience .work-item {
+  margin-bottom: 2em;
+}
 
