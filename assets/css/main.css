@@ -3306,11 +3306,5 @@ h3, h4, h5, h6 {
 /* Add spacing between heading and paragraph */
 #work-experience h3 {
   font-family: 'Poppins', sans-serif; /* if you've switched headers to Poppins */
-  margin-bottom: 0.3em;
+  margin-bottom: 0.5em;
 }
-
-/* Optional: consistent spacing between expertise blocks */
-#work-experience .work-item {
-  margin-bottom: 2em;
-}
-
