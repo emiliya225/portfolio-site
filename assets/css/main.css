@@ -2142,17 +2142,21 @@ input, select, textarea {
 			}
 
 		.image.avatar {
-			border-radius: 100%;
+			display: block;
+			width: 180px;
+			height: 180px;
+			margin: 0 auto 1em auto;
+			border-radius: 50%;
+			overflow: hidden;
+		}
+		
+		.image.avatar img {
+			width: 100%;
+			height: 100%;
+			object-fit: cover;
+			display: block;
 		}
 
-			.image.avatar:before {
-				display: none;
-			}
-
-			.image.avatar img {
-				border-radius: 100%;
-				width: 100%;
-			}
 
 /* List */
 
